@@ -1,0 +1,4 @@
+ErrorDocument 404 http://localhost/ALIMENTAMOS/htaccess/error404.php
+ErrorDocument 403 http://localhost/ALIMENTAMOS/htaccess/error403.php
+
+Options All -Indexes
